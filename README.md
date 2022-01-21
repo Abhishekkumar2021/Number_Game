@@ -4,7 +4,7 @@
 
 ### This game contains 105 random numbers between 1 and 105 **_(both inclusive)_** you have to sort the numbers as much as you can by dragging and droping in a time limit of 1 minute.
 
-### In this way you can check your coordination of your eyes and brain.
+### In this way you can check coordination between your eyes and brain.
 
 #### The dark mode preview
 
