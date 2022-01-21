@@ -1,0 +1,105 @@
+* {
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.container {
+	background: rgb(32, 35, 37);
+
+	width: 100%;
+	min-height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	flex-wrap: wrap;
+	padding: 50px;
+	padding-bottom: 10px;
+	align-content: center;
+}
+.center {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.cover {
+	width: 105px;
+	height: 105px;
+	border-radius: 27% 73% 64% 36% / 28% 41% 59% 72%;
+
+	margin: 6px;
+	background: black;
+}
+.card {
+	width: 100%;
+	height: 100%;
+	background: rgb(40, 45, 48);
+	border-radius: 27% 73% 64% 36% / 28% 41% 59% 72%;
+	box-shadow: 0 0 10px rgba(0, 0, 0, 0.192);
+
+	font-size: 24px;
+	color: rgba(216, 216, 216, 0.842);
+	font-family: Roboto Mono;
+}
+.card:hover {
+	opacity: 0.9;
+}
+.light-container {
+	background: rgb(227, 239, 245);
+}
+.light-cover {
+	background: white;
+}
+.light-card {
+	background: white;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.11);
+	color: black;
+}
+button {
+	padding: 10px 15px;
+	background: rgba(255, 255, 255, 0.062);
+	border: none;
+	color: white;
+	border-radius: 4px;
+	transition: 0.1s ease transform;
+	font-size: 18px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.11);
+}
+button:active {
+	transform: scale(0.9);
+}
+.theme {
+	top: 10px;
+	right: 10px;
+}
+.start {
+	left: 10px;
+	top: 10px;
+}
+.nav {
+	position: absolute;
+	top: 0;
+	padding: 10px 20px;
+	width: 100%;
+	display: flex;
+	justify-content: space-between;
+}
+.timer {
+	min-width: 150px;
+	height: 50px;
+
+	background: rgba(255, 255, 255, 0.062);
+	display: flex;
+	justify-content: center;
+	color: white;
+	border-radius: 4px;
+	font-size: 24px;
+	box-shadow: 0 5px 10px rgba(0, 0, 0, 0.11);
+	font-family: Roboto Mono;
+	align-items: center;
+	padding: 0 15px;
+}
+.light-nav {
+	background: white;
+	color: black;
+}
