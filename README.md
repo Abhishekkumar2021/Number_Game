@@ -10,7 +10,7 @@
 
 ![dark](https://github.com/Abhishekkumar2021/Number_Game/blob/main/assets/Dark_Mode.png)
 
-#### The dark mode preview
+#### The light mode preview
 
 ![light](https://github.com/Abhishekkumar2021/Number_Game/blob/3c905d52aed27442468ad00c6a9db9ff98407ca1/assets/Light%20_Mode.png)
 
