@@ -99,7 +99,7 @@ start.onclick = () => {
 				index++;
 			}
 			timer.innerText = `You have sorted ${numSorted} numbers in ${seconds} seconds and in a total of ${numDrag} drags.`;
-			start.disabled = true;
+			start.disabled = false;
 			clearInterval(id);
 		} else {
 			timer.innerText = seconds + " seconds";
