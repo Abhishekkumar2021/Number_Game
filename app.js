@@ -4,7 +4,7 @@ let seconds = 0;
 let numSorted = 0;
 let sortedArray = [];
 const container = document.querySelector(".container");
-for (let i = 1; i <= 105; i++) {
+for (let i = 1; i <= 72; i++) {
 	const cover = document.createElement("div");
 	cover.className = "cover";
 	const card = document.createElement("div");
