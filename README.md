@@ -3,7 +3,7 @@
 ## [Visit](https://number-game-nu.vercel.app/)
 ## How to play the game?
 
-### This game contains 105 random numbers between 1 and 105 **_(both inclusive)_** you have to sort the numbers as much as you can by dragging and droping in a time limit of 1 minute.
+### This game contains 72 random numbers between 1 and 72 **_(both inclusive)_** you have to sort the numbers as much as you can by dragging and droping in a time limit of 1 minute.
 
 ### In this way you can check coordination between your eyes and brain.
 
